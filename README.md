@@ -11,4 +11,4 @@ This project is a clone of the PayPal homepage built using HTML, CSS, and JavaSc
 ## Installation
 
 1. Clone this repository
-2. Open the `index.html` file in your browser
+2. Open the `index.html` file in your vs code using live server..
